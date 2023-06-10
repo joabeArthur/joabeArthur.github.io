@@ -1,0 +1,35 @@
+body{
+    /*background-image: url('https://saborecia.com.br/wp-content/uploads/2020/08/MG_4421-scaled.jpg');*/
+    text-align:center;
+}
+h1{
+    color:black;
+    font-size:40px;
+    text-align:center;
+}
+p{
+    color:rgb(42, 7, 243);
+    text-align: center;
+    font-size: 30px;
+    border:solid 5px;
+    border-color:#46c091;
+    background-color: #46c091;
+}
+li{
+    text-align: center;
+    font-size: 20px;
+}
+.oi{
+    color: #280dc0;
+}
+
+#ola {
+    font-size: 20px;
+    text-align:center;
+}
+.alert-success{
+    margin: 30px;
+}
+b{
+    text-decoration-line: line-through;
+}
